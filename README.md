@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @george-badia
+- 👀 I’m interested in telemedicine technology
+- 🌱 I’m currently learning software engineering
+- 💞️ I’m looking to collaborate on healthcare tech
+- 📫 How to reach me whats app
+- 😄 Pronouns: MR
+- ⚡ Fun fact: I woke up flawless

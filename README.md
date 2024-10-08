@@ -1,5 +1,5 @@
 Hi there, I'm george 👋
-🚀 Full Stack Developer | 💻 JavaScript, React, Python | 🌐 Web Enthusiast |
+🚀 Full Stack Developer | 💻 JavaScript, React, Python | 🌐 Web Enthusiast |🩺💊💻🌎👨‍⚕️ Health care tech Enthusiast
 
 This is my GitHub playground. I'm all about building sleek web experiences and sturdy applications. But wait, there's more! Explore some cool projects below and discover the coder behind the code!
 
